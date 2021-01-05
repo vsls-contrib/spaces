@@ -659,7 +659,7 @@
     "@types/keytar": "^4.4.0",
     "@types/uuid": "^3.4.5",
     "@vs/vscode-account": "1.0.1418",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "color-string": "^1.5.3",
     "elm": "^0.19.0-no-deps",
     "git-user-name": "^2.0.0",
